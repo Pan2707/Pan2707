@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pan2707
+- 👋 Hi, I’m Prashant
 - 👀 I’m interested in Machine Learning for AM or 3D printing
 - 🌱 I’m currently learning ML, DL, ANN
 - 💞️ I’m looking to collaborate on topics or projects related to Machine Learning for AM or 3D printing
